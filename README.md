@@ -30,10 +30,12 @@ Preprocessing dilakukan 3 tahap yaitu
 ![Screenshot 2024-12-25 210959.png](https://www.dropbox.com/scl/fi/n4u4u84j3e1bs1hj5drgh/Screenshot-2024-12-25-210959.png?rlkey=advrf22e43nqm3y4242jmcuf0&dl=0&raw=1)
 
 ###### MobileNetV2
-![Screenshot 2024-12-25 172439.png](https://www.dropbox.com/scl/fi/8kxbm458juhw9keglxotd/Screenshot-2024-12-25-172439.png?rlkey=c9sjmo77umruoimoxa1jfe06f&dl=0&raw=1)
+![Screenshot 2024-12-25 220058.png](https://www.dropbox.com/scl/fi/5k4yx6gfryb10hdieebus/Screenshot-2024-12-25-220058.png?rlkey=qi325q7kn9ugvamiq4r5albjz&dl=0&raw=1)
 
 ###### ROC Curve Comparison Betweeen RestNet50 vs MobileNetV2
-![Screenshot 2024-12-25 172547.png](https://www.dropbox.com/scl/fi/fww5jw8irdgw1gecx84ql/Screenshot-2024-12-25-172547.png?rlkey=nyfyna79n1wh4lg67xnhyemzv&dl=0&raw=1)
+![Screenshot 2024-12-25 220153.png](https://www.dropbox.com/scl/fi/ji3i1bxtek5zqyu2n2x6l/Screenshot-2024-12-25-220153.png?rlkey=gz6xgqygly4w9swi8x4ea4nyw&dl=0&raw=1)
+
+
 
 ## Local Web Deployement
 ---
