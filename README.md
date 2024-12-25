@@ -27,7 +27,7 @@ Preprocessing dilakukan 3 tahap yaitu
 
 ##### Modeling
 ###### RestNet50
-![Screenshot 2024-12-25 172333.png](https://www.dropbox.com/scl/fi/jde7bdlvj8jpot3fgfhj8/Screenshot-2024-12-25-172333.png?rlkey=figlw72wv010khx8rra68euwi&dl=0&raw=1)
+![Screenshot 2024-12-25 210959.png](https://www.dropbox.com/scl/fi/n4u4u84j3e1bs1hj5drgh/Screenshot-2024-12-25-210959.png?rlkey=advrf22e43nqm3y4242jmcuf0&dl=0&raw=1)
 
 ###### MobileNetV2
 ![Screenshot 2024-12-25 172439.png](https://www.dropbox.com/scl/fi/8kxbm458juhw9keglxotd/Screenshot-2024-12-25-172439.png?rlkey=c9sjmo77umruoimoxa1jfe06f&dl=0&raw=1)
